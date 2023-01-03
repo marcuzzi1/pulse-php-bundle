@@ -6,7 +6,6 @@ use Attribute;
 
 /**
  * @Author: Quentin MARCUZZI
- * @version : 0.1
  * This class is used to define a route with an attribute.
  */
 #[Attribute]

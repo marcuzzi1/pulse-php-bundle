@@ -7,7 +7,6 @@ use PulsePhpBundle\DirectoryScanner\DirectoryScanner;
 
 /**
  * @Author: Quentin MARCUZZI
- * @version : 0.1
  * This class is used to register and handle routes.
  */
 class Router

@@ -4,7 +4,6 @@ namespace PulsePhpBundle\DirectoryScanner;
 
 /**
  * @Author Quentin MARCUZZI
- * @version 0.1
  * This class is used to scan a directory and get all files.
  */
 class DirectoryScanner
