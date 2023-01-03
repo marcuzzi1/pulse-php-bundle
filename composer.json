@@ -3,6 +3,7 @@
     "description": "This is the utility bundle used in Pulse-PHP bundle, which is versatile for any PHP project",
     "type": "library",
     "version": "0.1",
+    "stability": "dev",
     "autoload": {
         "psr-4": {
             "PulsePhpBundle\\": "src/"
