@@ -1,0 +1,17 @@
+{
+    "name": "marcuzzi1/pulse-php-bundle",
+    "description": "This is the utility bundle used in Pulse-PHP bundle, which is versatile for any PHP project",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "PulsePhpBundle\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "marcuzzi1",
+            "email": "quentin.marcuzzi@etu.unilim.fr"
+        }
+    ],
+    "require": {}
+}
