@@ -46,6 +46,7 @@ class Router
                 throw new Exception('The file ' . $scannedFile . ' is not a PHP file.');
             }
 
+            echo "File : " . $scannedFile;
         }
     }
 }
